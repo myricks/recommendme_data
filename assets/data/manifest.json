@@ -1,0 +1,13 @@
+{
+  "latest_version": 2,
+  "updates": [
+    {
+      "version": 2,
+      "type": "annual_delta",
+      "count": 100,
+      "url": "https://github.com/myricks/recommendme_data/releases/download/v2.0/items_v2_delta.json",
+      "checksum_sha256": "3c503363cc4226fdcbc3e8cd0edba3b5b8a6032fa159dbeac3e5b89f026bccf0",
+      "size_bytes": 82628
+    }
+  ]
+}
