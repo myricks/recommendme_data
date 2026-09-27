@@ -2,12 +2,18 @@
   "latest_version": 2,
   "updates": [
     {
+      "version": 1.0,
+      "type": "initial_seed",
+      "count": 100,
+      "url": "assets/data/items_v1.json"
+    },
+    {
       "version": 2,
       "type": "annual_delta",
-      "count": 100,
+      "count": 110,
       "url": "https://github.com/myricks/recommendme_data/releases/download/v2.0/items_v2_delta.json",
-      "checksum_sha256": "3c503363cc4226fdcbc3e8cd0edba3b5b8a6032fa159dbeac3e5b89f026bccf0",
-      "size_bytes": 82628
+      "checksum_sha256": "0c49275a817205df418fec102a967f5b228d83abf1c144cddba70d2a2e36f059",
+      "size_bytes": 93700
     }
   ]
 }
