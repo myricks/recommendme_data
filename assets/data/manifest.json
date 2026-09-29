@@ -1,5 +1,5 @@
 {
-  "latest_version": 2,
+  "latest_version": 3,
   "updates": [
     {
       "version": 1,
@@ -16,6 +16,14 @@
       "url": "https://github.com/myricks/recommendme_data/releases/download/v2.0/items_v2_delta.json",
       "checksum_sha256": "abc6571d5b85dd219f60ed35e05c684d63a81e4217d25a440ae84c00614e6f08",
       "size_bytes": 89006
+    },
+    {
+      "version": 3,
+      "type": "annual_delta",
+      "count": 189,
+      "url": "https://github.com/myricks/recommendme_data/releases/download/v3.0/items_v3_delta.json",
+      "checksum_sha256": "a971c1de40d91edd5b70298cf01983ba4b80aecf921c6857bd73d1169c574cb0",
+      "size_bytes": 205881
     }
   ]
 }
