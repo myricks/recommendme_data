@@ -28,10 +28,10 @@
     {
       "version": 4,
       "type": "annual_delta",
-      "count": 899,
+      "count": 897,
       "url": "https://github.com/myricks/recommendme_data/releases/download/v4.0-rc1/items_v4_delta.json.gz",
-      "checksum_sha256": "094a329f64f232988232d215f7e898b55d8b1f66f1cf400d1265bd7dcd9840a6",
-      "size_bytes": 212848
+      "checksum_sha256": "2df8c7d7ad40bb86048633da75c41246a1cd40053e200c268381f6b73c311d6f",
+      "size_bytes": 214456
     }
   ]
 }
