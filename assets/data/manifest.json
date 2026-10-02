@@ -6,32 +6,32 @@
       "type": "initial_seed",
       "count": 55,
       "url": "assets/data/items_v1.json",
-      "checksum_sha256": "87f88bd08580a92f5227af85e5f210877fe8245028218b67b695349b3dd8bade",
-      "size_bytes": 43985
+      "checksum_sha256": "fee7a82662193779d8d2118f0e665d94f60c085ab06eea31df9699dd781c0225",
+      "size_bytes": 61195
     },
     {
       "version": 2,
       "type": "annual_delta",
-      "count": 110,
-      "url": "https://github.com/myricks/recommendme_data/releases/download/v2.0/items_v2_delta.json",
-      "checksum_sha256": "abc6571d5b85dd219f60ed35e05c684d63a81e4217d25a440ae84c00614e6f08",
-      "size_bytes": 89006
+      "count": 108,
+      "url": "https://github.com/myricks/recommendme_data/releases/download/v2.0/items_v2_delta.json.gz",
+      "checksum_sha256": "4338b81dce8df50b6bbbdb050b6c66e026e3a398832b8961c1925c14a97bc1ab",
+      "size_bytes": 31184
     },
     {
       "version": 3,
       "type": "annual_delta",
-      "count": 189,
-      "url": "https://github.com/myricks/recommendme_data/releases/download/v3.0/items_v3_delta.json",
-      "checksum_sha256": "a971c1de40d91edd5b70298cf01983ba4b80aecf921c6857bd73d1169c574cb0",
-      "size_bytes": 205881
+      "count": 207,
+      "url": "https://github.com/myricks/recommendme_data/releases/download/v3.0/items_v3_delta.json.gz",
+      "checksum_sha256": "a48f52ba12f11894d98f0bb1b0c1ad07a2b4a830564d8d0c072a02fb7dc57fa8",
+      "size_bytes": 55726
     },
     {
       "version": 4,
       "type": "annual_delta",
-      "count": 897,
+      "count": 903,
       "url": "https://github.com/myricks/recommendme_data/releases/download/v4.0-rc1/items_v4_delta.json.gz",
-      "checksum_sha256": "2df8c7d7ad40bb86048633da75c41246a1cd40053e200c268381f6b73c311d6f",
-      "size_bytes": 214456
+      "checksum_sha256": "4965ebd87c7e5889579b3b382b4254c351ed5d56e7b4be3bb11f7ad575bb633b",
+      "size_bytes": 221530
     }
   ]
 }
