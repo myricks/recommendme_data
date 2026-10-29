@@ -1,13 +1,101 @@
 {
-  "latest_version": 1,
+  "latest_version": 12,
   "updates": [
     {
       "version": 1,
       "type": "initial_seed",
-      "count": 108725,
+      "count": 1096,
       "url": "assets/data/items_v1.json.gz",
-      "checksum_sha256": "182c601ab349a318c15a73777a0d94b88ccfdcd4d2ae36d0f4d3567d1d458dda",
-      "size_bytes": 19317472
+      "checksum_sha256": "43b09a7ef2f87e3162c4591a66b7b85dd90b643b4da804d143fca3e6741f8efd",
+      "size_bytes": 198207
+    },
+    {
+      "version": 2,
+      "type": "initial_seed",
+      "count": 19712,
+      "url": "assets/data/items_v2_delta_film_20000.json.gz",
+      "checksum_sha256": "cca479ea325565521c693865b51704fe350ab6974919afb4adb204a136c9f492",
+      "size_bytes": 4571691
+    },
+    {
+      "version": 3,
+      "type": "initial_seed",
+      "count": 18789,
+      "url": "assets/data/items_v3_delta_tv_19000.json.gz",
+      "checksum_sha256": "526839908bca5847603b358f4dce7565c293caae3a46e5c346c19bd235019ef8",
+      "size_bytes": 3390068
+    },
+    {
+      "version": 4,
+      "type": "initial_seed",
+      "count": 15646,
+      "url": "assets/data/items_v4_delta_game_16000.json.gz",
+      "checksum_sha256": "a07f1471bffbd23c0926cf8e87c2304ccbf7190be2a42e2f1e55f0eade4ce421",
+      "size_bytes": 2974477
+    },
+    {
+      "version": 5,
+      "type": "initial_seed",
+      "count": 13825,
+      "url": "assets/data/items_v5_delta_album_14000.json.gz",
+      "checksum_sha256": "0bdfbc3c36262d4cdb39d47dd2cb9df63e26be49d9a6216fee35d8369172b661",
+      "size_bytes": 2085800
+    },
+    {
+      "version": 6,
+      "type": "initial_seed",
+      "count": 8430,
+      "url": "assets/data/items_v6_delta_poem_9000.json.gz",
+      "checksum_sha256": "99de6655db8291a2353e01cb4d78b7e06cf37bd8371780791ac6a565081500e7",
+      "size_bytes": 1344747
+    },
+    {
+      "version": 7,
+      "type": "initial_seed",
+      "count": 10114,
+      "url": "assets/data/items_v7_delta_book_11000.json.gz",
+      "checksum_sha256": "0aa0b624009510431ae0a381c9611a15ad01f82c85469ee68605d5d048a428f1",
+      "size_bytes": 1615688
+    },
+    {
+      "version": 8,
+      "type": "initial_seed",
+      "count": 7951,
+      "url": "assets/data/items_v8_delta_painting_8000.json.gz",
+      "checksum_sha256": "073bcf489e052830efed1aee8476372d60706e3c2ab442f4919fb26a4b310a65",
+      "size_bytes": 1093444
+    },
+    {
+      "version": 9,
+      "type": "initial_seed",
+      "count": 4693,
+      "url": "assets/data/items_v9_delta_song_5000.json.gz",
+      "checksum_sha256": "a1b262ed30c0cdba1cca149b7a9e271c18bc0914ca0877040f373e53b34096c8",
+      "size_bytes": 831062
+    },
+    {
+      "version": 10,
+      "type": "initial_seed",
+      "count": 3369,
+      "url": "assets/data/items_v10_delta_sculpture_4000.json.gz",
+      "checksum_sha256": "6b3056de5d129f76e39430a6711138d1e07841109bd9a1402edb0ae5e92eeb3e",
+      "size_bytes": 466083
+    },
+    {
+      "version": 11,
+      "type": "initial_seed",
+      "count": 5725,
+      "url": "assets/data/items_v11_delta_theatre_6000.json.gz",
+      "checksum_sha256": "79fe311eb6f1baff055b5bd81a713f3f96d4d1cca177cec5d6732c2c04200d9a",
+      "size_bytes": 872042
+    },
+    {
+      "version": 12,
+      "type": "initial_seed",
+      "count": 471,
+      "url": "assets/data/items_v12_delta_comic_1000.json.gz",
+      "checksum_sha256": "2338dd2f36b7e6e9fbfaf4610df4325a2cef1d3e42ece87f0d35672aa1343105",
+      "size_bytes": 77633
     }
   ]
 }
